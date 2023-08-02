@@ -19,7 +19,6 @@ Install the required dependencies from the requirements.txt file.
 
 # pip install -r requirements.txt
 
-Create a new folder named data in the root directory of the project.
 In the data/config.py file, add your Telegram token and admin user ID.
 To run the bot, execute the app.py module.
 
@@ -48,7 +47,6 @@ Please note that this project is purely for demonstration purposes. Feel free to
 
 # pip install -r requirements.txt
 
-В корневой директории проекта создайте новую папку с именем data.
 В файле data/config.py добавьте свой токен и ID администратора Telegram.
 Запустите бота, выполнив модуль app.py.
 
